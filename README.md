@@ -1,4 +1,4 @@
-# Deploy on Day One
+git remote set-url origin https://github.com/casper345/vfa-deploy-on-day-1.git# Deploy on Day One
 
 ## Contents
 
